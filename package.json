@@ -13,5 +13,10 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "live-server": "https://github.com/acco/live-server/tarball/master"
+  },
+  "dependencies": {
+    "debug": "^4.1.0",
+    "fresh": "^0.5.2",
+    "mime": "^2.4.0"
   }
 }

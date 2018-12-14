@@ -13,6 +13,8 @@ window.Seed = (function () {
       submitterAvatarUrl: 'images/avatars/daniel.jpg',
       productImageUrl: 'images/products/image-aqua.png',
     },
+
+    /*
     {
       id: 2,
       title: 'Supermajority: The Fantasy Congress League',
@@ -40,6 +42,7 @@ window.Seed = (function () {
       submitterAvatarUrl: 'images/avatars/molly.png',
       productImageUrl: 'images/products/image-yellow.png',
     },
+    */
   ];
 
   return { products: products };

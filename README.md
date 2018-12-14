@@ -1,4 +1,6 @@
-### Running the app
+###Voting App Build Project from FullStackReact
+
+###Running the app
 
 1. Ensure you have `npm` installed.
 

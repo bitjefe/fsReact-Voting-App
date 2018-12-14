@@ -1,4 +1,4 @@
-###Voting App Build Project from FullStackReact
+Voting App Build Project from FullStackReact
 
 ###Running the app
 

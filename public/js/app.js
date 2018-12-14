@@ -7,6 +7,10 @@ class ProductList extends React.Component {
         };
     }
 
+    componentDidMount() {
+        this.setState({products: Seed.products});
+    }
+    
     handleProductUpVote(productId) {
         console.log(productId + ' was upvoted.');
     }

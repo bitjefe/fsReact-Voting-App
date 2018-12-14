@@ -1,5 +1,9 @@
 /* Styles go here */
 
+body{
+  background-color: whitesmoke;
+}
+
 #content {
   margin-bottom: 4em;
 }

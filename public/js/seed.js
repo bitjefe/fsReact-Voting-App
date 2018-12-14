@@ -1,3 +1,4 @@
+
 window.Seed = (function () {
   function generateVoteCount() {
     return Math.floor((Math.random() * 50) + 15);
@@ -13,7 +14,7 @@ window.Seed = (function () {
       submitterAvatarUrl: 'images/avatars/daniel.jpg',
       productImageUrl: 'images/products/image-aqua.png',
     },
-
+    
     /*
     {
       id: 2,
